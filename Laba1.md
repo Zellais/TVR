@@ -8,8 +8,11 @@
 - Игрок уклоняется
 - Если не успевает, то игра заканчивается и появлется кнопка 'Restart'
 ### 4. Интерфейс
-
+![image](https://user-images.githubusercontent.com/71723629/157322969-135d7328-3c9d-4426-a8c8-6683ab08f5d3.png)
 ### 5. Модели 
+![image](https://user-images.githubusercontent.com/71723629/157323015-f894acaf-150d-4011-9909-4e52afd30a3c.png)
+![image](https://user-images.githubusercontent.com/71723629/157323036-f6fd31e3-664b-43fe-8ad0-320ce05e8a98.png)
+![image](https://user-images.githubusercontent.com/71723629/157323066-fb9b4738-3a51-4d46-a531-b4acdfbea97d.png)
 
 
 
